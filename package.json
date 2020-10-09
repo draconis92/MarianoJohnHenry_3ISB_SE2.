@@ -1,0 +1,21 @@
+{
+  "name": "MarianoJohnHenry_3ISB_SE2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"app1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draconis92/MarianoJohnHenry_3ISB_SE2..git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draconis92/MarianoJohnHenry_3ISB_SE2./issues"
+  },
+  "homepage": "https://github.com/draconis92/MarianoJohnHenry_3ISB_SE2.#readme"
+}
